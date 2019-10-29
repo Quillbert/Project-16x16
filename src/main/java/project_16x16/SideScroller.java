@@ -329,8 +329,8 @@ public class SideScroller extends PApplet {
 						break;
 					case 27 : // ESC - Pause menu here
 						if(currentScene != menu) {
-						swapToScene(currentScene == pmenu ? game : pmenu);
-						debug = currentScene == pmenu ? debugType.OFF : debugType.ALL;
+							swapToScene(currentScene == pmenu ? game : pmenu);
+							debug = currentScene == pmenu ? debugType.OFF : debugType.ALL;
 						}
 						break;
 					case 9 : // TAB

@@ -5,8 +5,11 @@ import project_16x16.SideScroller;
 import project_16x16.ui.Button;
 
 /**
- * TODO The main menu will be scene
+ * <h1>MainMeny Class</h1>
+ * <p>This class is the scene for the main menu.</p>
+ * @see PauseMenu
  * @author micycle1
+ * @author Quillbert182
  *
  */
 public final class MainMenu extends PScene {

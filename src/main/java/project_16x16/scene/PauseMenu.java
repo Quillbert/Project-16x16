@@ -1,5 +1,5 @@
 /**
- * 
+ *
  */
 package project_16x16.scene;
 
@@ -10,6 +10,11 @@ import processing.core.PImage;
 import processing.event.MouseEvent;
 
 /**
+ * <h1>PauseMenu Class</h1>
+ * <p>This class is the scene for the pause menu.</p>
+ * 
+ * @see MainMenu
+ * 
  * @author Quillbert182
  *
  */
